@@ -83,6 +83,11 @@
   
 <br>
 
+
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA502&width=600&lines=Connect+with+me%3A)](https://git.io/typing-svg)
+<br>
+  
   <p align="center">
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
@@ -92,8 +97,4 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
 
 </p>
-
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA502&width=600&lines=Connect+with+me%3A)](https://git.io/typing-svg)
-<br>
 
