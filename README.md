@@ -1,3 +1,7 @@
+
+
+![Orange Minimalist (LinkedIn Banner)](https://user-images.githubusercontent.com/121780124/212829657-14431573-5d93-41dc-ab9c-21d16a623541.png)
+
 <h1 align="center">Hi 👋, I'm Dinithi Chamodya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
