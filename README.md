@@ -83,6 +83,15 @@
   
 <br>
 
+  <p align="center">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
+![Google](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
+
+</p>
 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA502&width=600&lines=Connect+with+me%3A)](https://git.io/typing-svg)
