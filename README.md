@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dinithimendis42@gmail.com**
 
-- I'm a student of [IJSE](https://www.ijse.lk/).
+- 🌱 I'm a student of [IJSE](https://www.ijse.lk/).
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
