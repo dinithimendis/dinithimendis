@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **dinithimendis42@gmail.com**
 
+- [Institute](https://www.ijse.lk/).
+
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
 </p>
